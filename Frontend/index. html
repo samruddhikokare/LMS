@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Learning Management System</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link to your CSS file -->
+</head>
+
+<body>
+    <div id="root"></div> <!-- This is where your React app will be rendered -->
+
+    <!-- Add any additional scripts or libraries here -->
+    <script src="index.js"></script> <!-- Link to your React app's entry point -->
+</body>
+
+</html>
